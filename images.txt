@@ -5,3 +5,4 @@ jxxghp/moviepilot:latest
 lswl/vertex:stable
 nyanmisaka/jellyfin:latest-legacy
 0nlylty/dockercopilot:UGREEN
+mzz2017/v2raya:latest
