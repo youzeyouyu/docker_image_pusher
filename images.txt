@@ -4,3 +4,4 @@ iyuucn/iyuuplus-dev:latest
 jxxghp/moviepilot:latest
 lswl/vertex:stable
 nyanmisaka/jellyfin:latest-legacy
+0nlylty/dockercopilot:UGREEN
